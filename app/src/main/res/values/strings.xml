@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CustomAdpater</string>
+    <string-array name="booksname">
+        <item>হিমু</item>
+        <item>আজ হিমুর বিয়ে</item>
+        <item>হিমু রিমান্ডে</item>
+        <item>হিমুর আছে জল</item>
+        <item>হলুদ হিমু কালো র‍্যাব</item>
+        <item>হিমুর নীল জোছনা </item>
+
+
+    </string-array>
+</resources>
